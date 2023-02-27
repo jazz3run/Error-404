@@ -1,6 +1,4 @@
 # 👻 Responsive 404 Page
-## [Watch it on youtube](https://youtu.be/WG2l4ER3_Qc)
-### 👻 Responsive 404 Page
 
 - Responsive 404 Page Using HTML CSS & JavaScript
 - Contains CSS animations.
