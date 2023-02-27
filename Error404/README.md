@@ -9,4 +9,4 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+![Tuvimos un problema al cargar la imagen](https://github.com/jazz3run/Error-404/blob/main/Error404/preview.png)
