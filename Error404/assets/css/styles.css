@@ -174,6 +174,11 @@ img {
 }
 
 .home__button:hover{
+  color: var(--text-color);
+  background-color: white;
+}
+
+.home__button:hover{
   box-shadow: 0 4px 12px hsla(38, 69%, 8%, .2);
 }
 
@@ -202,6 +207,10 @@ img {
   column-gap: .5rem;
   font-size: var(--smaller-font-size);
   align-self: flex-end;
+}
+
+.home__footer a{
+  color: var(--text-color);
 }
 
 
